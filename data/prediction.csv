@@ -1,0 +1,21 @@
+,NOC,region,Host,Name,Events,Athletes per Event,Golds Prediction,Silvers Prediction,Bronzes Prediction,Medals Prediction
+0,USA,USA,0,557,249,2.237,37,31,29,97
+1,CHN,China,0,446,224,1.991,24,21,20,65
+2,GER,Germany,0,407,212,1.92,18,19,19,56
+3,RUS,Russia,0,389,220,1.768,18,17,18,53
+4,AUS,Australia,0,419,207,2.024,18,17,18,53
+5,GBR,UK,0,398,210,1.895,15,15,16,46
+6,BRA,Brazil,0,326,168,1.94,14,13,14,41
+7,ESP,Spain,0,289,142,2.035,13,12,12,37
+8,FRA,France,0,341,198,1.722,11,11,13,35
+9,CAN,Canada,0,305,179,1.704,11,11,12,34
+10,ITA,Italy,0,307,176,1.744,11,10,11,32
+11,JPN,Japan,1,319,180,1.772,10,9,10,29
+12,KOR,South Korea,0,239,133,1.797,9,9,9,27
+13,NED,Netherlands,0,215,105,2.048,9,9,9,27
+14,POL,Poland,0,233,152,1.533,7,7,8,22
+15,NZL,New Zealand,0,183,88,2.08,8,7,7,22
+16,ARG,Argentina,0,161,72,2.236,7,7,7,21
+17,UKR,Ukraine,0,225,164,1.372,6,6,7,19
+18,HUN,Hungary,0,158,116,1.362,5,5,6,16
+19,SWE,Sweden,0,135,80,1.688,4,5,5,14

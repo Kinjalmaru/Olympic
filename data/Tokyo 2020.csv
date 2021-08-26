@@ -1,0 +1,89 @@
+Event,Gold,Silver,Bronze,Sport,Event
+Men's individual,Mete Gazoz,Mauro Nespoli,Takaharu Furukawa,Archery,Archery Men's individual
+Men's team,Kim Woo-jin,Deng Yu-cheng,Takaharu Furukawa,Archery,Archery Men's team
+Men's team,Oh Jin-hyek,Tang Chih-chun,Yuki Kawata,Archery,Archery Men's team
+Men's team,Kim Je-deok,Wei Chun-heng,Hiroki Muto,Archery,Archery Men's team
+Women's individual,An San,Elena Osipova,Lucilla Boari,Archery,Archery Women's individual
+Women's team,An San,Svetlana Gomboeva,Michelle Kroppen,Archery,Archery Women's team
+Women's team,Jang Min-hee,Elena Osipova,Charline Schwarz,Archery,Archery Women's team
+Women's team,Kang Chae-young,Ksenia Perova,Lisa Unruh,Archery,Archery Women's team
+Women's team,An San,Gabriela Schloesser,Alejandra Valencia,Archery,Archery Women's team
+Duet, Svetlana Kolesnichenko, Huang Xuechen, Marta Fiedina,Artistic swimming,Artistic swimming
+Duet,Svetlana Romashina,Sun Wenyan,Anastasiya Savchuk,Artistic swimming,Artistic swimming
+Team,Vlada Chigireva,Feng Yu,Maryna Aleksiiva,Artistic swimming,Artistic swimming
+Team,Marina Goliadkina,Guo Li,Vladyslava Aleksiiva,Artistic swimming,Artistic swimming
+Team,Svetlana Kolesnichenko,Huang Xuechen,Marta Fiedina,Artistic swimming,Artistic swimming
+Team,Polina Komar,Liang Xinping,Kateryna Reznik,Artistic swimming,Artistic swimming
+Team,Alexandra Patskevich,Sun Wenyan,Anastasiya Savchuk,Artistic swimming,Artistic swimming
+Team,Svetlana Romashina,Wang Qianyi,Alina Shynkarenko,Artistic swimming,Artistic swimming
+Team,Alla Shishkina,Xiao Yanning,Kseniya Sydorenko,Artistic swimming,Artistic swimming
+Team,Maria Shurochkina,Yin Chengxin,Yelyzaveta Yakhno,Artistic swimming,Artistic swimming
+100 metres,Marcell Jacobs,Fred Kerley,Andre De Grasse,Athletics,Athletics Men's 100 metres
+200 metres,Andre De Grasse,Kenny Bednarek,Noah Lyles,Athletics,Athletics Men's 200 metres
+400 metres,Steven Gardiner,Anthony Zambrano,Kirani James,Athletics,Athletics Men's 400 metres
+800 metres,Emmanuel Korir,Ferguson Rotich,Patryk Dobek,Athletics,Athletics Men's 800 metres
+1500 metres,Jakob Ingebrigtsen,Timothy Cheruiyot,Josh Kerr,Athletics,Athletics Men's 1500 metres
+5000 metres,Joshua Cheptegei,Mohammed Ahmed,Paul Chelimo,Athletics,Athletics Men's 5000 metres
+"10,000 metres",Selemon Barega,Joshua Cheptegei,Jacob Kiplimo,Athletics,"Athletics Men's 10,000 metres"
+110 metres hurdles,Hansle Parchment,Grant Holloway,Ronald Levy,Athletics,Athletics Men's 110 metres hurdles
+400 metres hurdles,Karsten Warholm,Rai Benjamin,Alison dos Santos,Athletics,Athletics Men's 400 metres hurdles
+3000 metres steeplechase,Soufiane El Bakkali,Lamecha Girma,Benjamin Kigen,Athletics,Athletics Men's 3000 metres steeplechase
+4 _ 100 metres relay,Lorenzo Patta,Chijindu Ujah,Aaron Brown,Athletics,Athletics Men's 4 _ 100 metres relay
+4 _ 100 metres relay,Marcell Jacobs,Zharnel Hughes,Jerome Blake,Athletics,Athletics Men's 4 _ 100 metres relay
+4 _ 100 metres relay,Fausto Desalu,Richard Kilty,Brendon Rodney,Athletics,Athletics Men's 4 _ 100 metres relay
+4 _ 100 metres relay,Filippo Tortu,Nethaneel Mitchell-Blake,Andre De Grasse,Athletics,Athletics Men's 4 _ 100 metres relay
+4 _ 400 metres relay,Michael Cherry,Liemarvin Bonevacia,Isaac Makwala,Athletics,Athletics Men's 4 _ 400 metres relay
+4 _ 400 metres relay,Michael Norman,Terrence Agard,Baboloki Thebe,Athletics,Athletics Men's 4 _ 400 metres relay
+4 _ 400 metres relay,Bryce Deadmon,Tony van Diepen,Zibane Ngozi,Athletics,Athletics Men's 4 _ 400 metres relay
+4 _ 400 metres relay,Rai Benjamin,Ramsey Angela,Bayapo Ndori,Athletics,Athletics Men's 4 _ 400 metres relay
+4 _ 400 metres relay,Trevor Stewart,Jochem Dobber,,Athletics,Athletics Men's 4 _ 400 metres relay
+4 _ 400 metres relay,Randolph Ross,,,Athletics,Athletics Men's 4 _ 400 metres relay
+4 _ 400 metres relay,Vernon Norwood,,,Athletics,Athletics Men's 4 _ 400 metres relay
+Marathon,Eliud Kipchoge,Abdi Nageeye,Bashir Abdi,Athletics,Athletics Men's Marathon
+20 kilometres walk,Massimo Stano,Koki Ikeda,Toshikazu Yamanishi,Athletics,Athletics Men's 20 kilometres walk
+50 kilometres walk,Dawid Tomala,Jonathan Hilbert,Evan Dunfee,Athletics,Athletics Men's 50 kilometres walk
+High jump,Gianmarco Tamberi,Not awarded,Maksim Nedasekau,Athletics,Athletics Men's High jump
+High jump,Mutaz Essa Barshim,,,Athletics,Athletics Men's High jump
+Pole vault,ArmDuplantis,Chris Nilsen,Thiago Braz,Athletics,Athletics Men's Pole vault
+Long jump,Miltiadis Tentoglou,Juan Miguel Echevarría,Maykel Massó,Athletics,Athletics Men's Long jump
+Triple jump,Pedro Pichardo,Zhu Yaming,Hugues Fabrice Zango,Athletics,Athletics Men's Triple jump
+Shot put,Ryan Crouser,Joe Kovacs,Tom Walsh,Athletics,Athletics Men's Shot put
+Discus throw,Daniel Ståhl,Simon Pettersson,Lukas Weißhaidinger,Athletics,Athletics Men's Discus throw
+Hammer throw,Wojciech Nowicki,Eivind Henriksen,Pawe_ Fajdek,Athletics,Athletics Men's Hammer throw
+Javelin throw,Neeraj Chopra,Jakub Vadlejch,Vít_zslav Vesel_,Athletics,Athletics Men's Javelin throw
+Decathlon,Damian Warner,Kevin Mayer,Ashley Moloney,Athletics,Athletics Men's Decathlon
+100 metres,Elaine Thompson-Herah,Shelly-Ann Fraser-Pryce,Shericka Jackson,Athletics,Athletics Women's 100 metres
+200 metres,Elaine Thompson-Herah,Christine Mboma,Gabrielle Thomas,Athletics,Athletics Women's 200 metres
+400 metres,Shaunae Miller-Uibo,Marileidy Paulino,Allyson Felix,Athletics,Athletics Women's 400 metres
+800 metres,Athing Mu,Keely Hodgkinson,Raevyn Rogers,Athletics,Athletics Women's 800 metres
+1500 metres,Faith Kipyegon,Laura Muir,Sifan Hassan,Athletics,Athletics Women's 1500 metres
+5000 metres,Sifan Hassan,Hellen Obiri,Gudaf Tsegay,Athletics,Athletics Women's 5000 metres
+"10,000 metres",Sifan Hassan,Kalkidan Gezahegne,Letesenbet Gidey,Athletics,"Athletics Women's 10,000 metres"
+100 metres hurdles,Jasmine Camacho-Quinn,Kendra Harrison,Megan Tapper,Athletics,Athletics Women's 100 metres hurdles
+400 metres hurdles,Sydney McLaughlin,Dalilah Muhammad,Femke Bol,Athletics,Athletics Women's 400 metres hurdles
+3000 metres steeplechase,Peruth Chemutai,Courtney Frerichs,Hyvin Jepkemoi,Athletics,Athletics Women's 3000 metres steeplechase
+4 _ 100 metres relay,Briana Williams,Javianne Oliver,Asha Philip,Athletics,Athletics Women's 4 _ 100 metres relay
+4 _ 100 metres relay,Elaine Thompson-Herah,Teahna Daniels,Imani-Lara Lansiquot,Athletics,Athletics Women's 4 _ 100 metres relay
+4 _ 100 metres relay,Shelly-Ann Fraser-Pryce,Jenna Prandini,Dina Asher-Smith,Athletics,Athletics Women's 4 _ 100 metres relay
+4 _ 100 metres relay,Shericka Jackson,Gabrielle Thomas,Daryll Neita,Athletics,Athletics Women's 4 _ 100 metres relay
+4 _ 100 metres relay,Natasha Morrison,English Gardner,,Athletics,Athletics Women's 4 _ 100 metres relay
+4 _ 100 metres relay,Remona Burchell,Aleia Hobbs,,Athletics,Athletics Women's 4 _ 100 metres relay
+4 _ 400 metres relay,Sydney McLaughlin,Natalia Kaczmarek,Roneisha McGregor,Athletics,Athletics Women's 4 _ 400 metres relay
+4 _ 400 metres relay,Allyson Felix,Iga Baumgart-Witan,Janieve Russell,Athletics,Athletics Women's 4 _ 400 metres relay
+4 _ 400 metres relay,Dalilah Muhammad,Ma_gorzata Ho_ub-Kowalik,Shericka Jackson,Athletics,Athletics Women's 4 _ 400 metres relay
+4 _ 400 metres relay,Athing Mu,Justyna _wi_ty-Ersetic,Candice McLeod,Athletics,Athletics Women's 4 _ 400 metres relay
+4 _ 400 metres relay,Kendall Ellis,Anna Kie_basi_ska,Junelle Bromfield,Athletics,Athletics Women's 4 _ 400 metres relay
+4 _ 400 metres relay,Lynna Irby,,Stacey-Ann Williams,Athletics,Athletics Women's 4 _ 400 metres relay
+4 _ 400 metres relay,Wadeline Jonathas,,,Athletics,Athletics Women's 4 _ 400 metres relay
+4 _ 400 metres relay,Kaylin Whitney,,,Athletics,Athletics Women's 4 _ 400 metres relay
+Marathon,Peres Jepchirchir,Brigid Kosgei,Molly Seidel,Athletics,Athletics Women's Marathon
+20 kilometres walk,Antonella Palmisano,Sandra Arenas,Liu Hong,Athletics,Athletics Women's 20 kilometres walk
+High jump,Mariya Lasitskene,Nicola McDermott,Yaroslava Mahuchikh,Athletics,Athletics Women's High jump
+Pole vault,Katie Nageotte,Anzhelika Sidorova,Holly Bradshaw,Athletics,Athletics Women's Pole vault
+Long jump,Malaika Mihambo,Brittney Reese,Ese Brume,Athletics,Athletics Women's Long jump
+Triple jump,Yulimar Rojas,Patrícia Mamona,Ana Peleteiro,Athletics,Athletics Women's Triple jump
+Shot put,Gong Lijiao,Raven Saunders,Valerie Adams,Athletics,Athletics Women's Shot put
+Discus throw,Valarie Allman,Kristin Pudenz,Yaime Pérez,Athletics,Athletics Women's Discus throw
+Hammer throw,Anita W_odarczyk,Wang Zheng,Malwina Kopron,Athletics,Athletics Women's Hammer throw
+Javelin throw,Liu Shiying,Maria Andrejczyk,Kelsey-Lee Barber,Athletics,Athletics Women's Javelin throw
+Heptathlon,Nafissatou Thiam,Anouk Vetter,Emma Oosterwegel,Athletics,Athletics Women's Heptathlon
