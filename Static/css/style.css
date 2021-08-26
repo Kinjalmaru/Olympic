@@ -65,6 +65,9 @@ h2#objective {
 h2#Visualization {
     padding-top: 80px;
 }
+h2#prediction {
+    padding-top: 80px;
+}
 
 .objective-text {
     margin: 25px;
