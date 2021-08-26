@@ -1,0 +1,83 @@
+html,
+body 
+/* #main_wrapper */
+{
+    margin-left:50px;
+    margin-right:-25px;
+    padding: 0px; 
+    color: white;
+    background-color: #071016;
+    font-size: 14px;
+    
+    
+    
+    
+}
+
+.container-fluid {
+    width: 110%;
+}
+
+
+h4 {
+    margin-left: 100px;
+    padding-top: 70px;
+    font-family: 'Oswald', sans-serif;
+}
+
+
+
+div.datafields {
+    height: 100%;
+    width: 80%;
+    margin-top: 50px;  
+    /* margin-left:75px;
+    margin-right:75px; */
+    position: relative;
+    overflow-y: scroll;
+    background-image: url(../images/bg-floor.png);
+    
+    background-repeat: no-repeat;
+}
+
+div>p {
+    /* margin-top: 50px; */
+    margin-left: 25px;
+    padding: 0px 25px 25px 50px;
+}
+
+
+h2 {
+    width: 100%;
+    font-family: 'Oswald', sans-serif;
+    text-decoration: underline #ff5926;
+    color: white;
+    margin-bottom: 4px;
+    text-align: left;
+    padding-left: 75px;
+    padding-top: 10px;
+}
+
+h2#objective {
+    padding-top: 80px;
+}
+
+h2#Visualization {
+    padding-top: 80px;
+}
+
+.objective-text {
+    margin: 25px;
+    font-size: 14px;
+    height: 100%;
+    text-align: justify;
+}
+
+h4 {
+    margin-left: 75px;
+    padding-top: 40px;
+    font-family: 'Oswald', sans-serif;
+    text-align: justify;
+}
+
+
